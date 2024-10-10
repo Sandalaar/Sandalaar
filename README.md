@@ -1,6 +1,6 @@
 - 👋 Hola, soy @Sandalaar
 - 👀 Estoy interesado en aprender programación, aunque aun no decido en que campo enfocarme.
-- 🌱 Actualmente estoy aprendiendo PHP, HTML, Godot y MySQL
+- 🌱 Actualmente estoy aprendiendo PHP, HTML, Python, Godot y MySQL
 - 💞️ Actualmente colaborando en desarrollo de video juegos.
 - 📫 Como contactarme: por Linkedin, esta vínculado a mi perfil.
 - 😄 Pronouns: Él
